@@ -1,6 +1,6 @@
 {
   "name": "localdir",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "serving localhost in command line.",
   "main": "lib/serve.js",
   "scripts": {

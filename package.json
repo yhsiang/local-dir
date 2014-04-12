@@ -1,0 +1,35 @@
+{
+  "name": "localdir",
+  "version": "0.0.0",
+  "description": "serving localhost in command line.",
+  "main": "lib/serve.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "bin": {
+    "localdir": "./bin/localdir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chilijung/serve-dir"
+  },
+  "keywords": [
+    "server",
+    "localhost",
+    "cli",
+    "tools"
+  ],
+  "author": "chilijung <chilijung@gmail.com> (http://lijung.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chilijung/serve-dir/issues"
+  },
+  "homepage": "https://github.com/chilijung/serve-dir",
+  "dependencies": {
+    "q": "^1.0.1",
+    "lodash": "^2.4.1",
+    "send": "^0.2.0",
+    "url": "^0.7.9",
+    "commander": "^2.2.0"
+  }
+}

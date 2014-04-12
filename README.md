@@ -11,7 +11,7 @@ npm install -g localdir
 ## Command
 
 ```
-Usage: servedir [options] <the directory you are willing to served, default to current directory>
+Usage: localdir [options] <the directory you are willing to served, default to current directory>
 
   Options:
 
